@@ -1,0 +1,19 @@
+{
+  "name": "paper-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel client/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/p5": "^0.9.0",
+    "p5": "^1.0.0",
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  }
+}
